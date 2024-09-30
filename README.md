@@ -21,8 +21,6 @@ Program to implement the Decision Tree Classifier Model for Predicting Employee 
 Developed by: V. POOJAA SREE
 RegisterNumber: 212223040147  
 */
-
-
 import pandas as pd
 data = pd.read_csv("Employee.csv")
 data
