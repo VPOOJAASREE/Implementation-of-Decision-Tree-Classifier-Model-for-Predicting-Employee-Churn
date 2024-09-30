@@ -55,17 +55,24 @@ DATA:
 
 ![o1](https://github.com/user-attachments/assets/e07e6f2f-bfa1-4b04-82fe-6271a99a51c4)
 
+
 ![o2](https://github.com/user-attachments/assets/c8a4d946-da2b-4667-8014-1a952f904291)
+
 
 ![o3](https://github.com/user-attachments/assets/0e2dfd83-1828-4f2f-b4f4-a2f9ad0bca62)
 
+
 ACCURACY:
+
 
 ![o4](https://github.com/user-attachments/assets/1d6e6bd4-054b-4963-90b8-13309c74454b)
 
+
 PREDICT:
 
+
 ![o5](https://github.com/user-attachments/assets/7156e1a8-93d6-4fb7-b0d6-2ac205e7171e)
+
 
 
 
